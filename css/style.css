@@ -1,0 +1,35 @@
+div{
+	height: 200px;
+	width: 200px;
+	border: #191970 3px dashed;
+	position: absolute;
+}
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.amigo1{
+	background-color: #ee3e64;
+	left: 0;
+	top: 0;
+}
+
+.amigo2{
+	background-color: #cceeff;
+  	left: 0px;
+  	bottom: 0px;
+}
+
+.amigo3{
+	background-color: #b7d84b;
+  	right: 0px;
+  	top: 0px;
+}
+
+.amigo4{
+	background-color: pink;
+	right: 0px;
+  	bottom: 0px;  	
+}
